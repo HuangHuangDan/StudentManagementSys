@@ -1,0 +1,31 @@
+.profile-section {
+    background-color: #e3ecf6;
+    min-height: 100vh;
+    padding-top: 60px;
+}
+
+.card {
+    border-radius: 16px;
+    border: none;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+}
+
+.info-item label {
+    font-weight: 700;
+    color: #2c3e50;
+    display: block;
+    margin-bottom: 4px;
+}
+
+.info-item p {
+    margin: 0;
+    color: #34495e;
+    font-size: 1rem;
+}
+
+.btn {
+    font-weight: 500;
+}
+
+
+
